@@ -81,7 +81,7 @@ int main() {
     
     char nome[4][50] = {
         "Igor Matias De Arruda Figueiredo",
-        "Joao Guilherme",
+        "Joao Guilherme Vicentino e Silva",
         "Guilherme Antonio Felix Da Silva",
         "Thiago Mesquita Pinheiro"
     };
